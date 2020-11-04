@@ -3,7 +3,6 @@ import edu.ucsd.cs110.temperature.Celsius;
 import edu.ucsd.cs110.temperature.Temperature;
 import junit.framework.TestCase;
 
-import static org.junit.jupiter.api.Assertions.*;
 
 public class CelsiusTest extends TestCase {
     private float delta = 0.001f;
